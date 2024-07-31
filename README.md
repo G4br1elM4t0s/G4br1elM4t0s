@@ -1,9 +1,9 @@
 
 ## Olá! Me chamo Gabriel Matos 👋
 #### Tecnico em Desenvolvimento de Sistemas 🚀🚀
-#### Graduando Em Analise e Desenvolvimento de Sistemas (Tecnologo) 🎓👋
+#### Graduado Em Analise e Desenvolvimento de Sistemas (Tecnologo) 🎓👋
 #### Desenvolvedor Full-stack há 4 anos/ Desenvolvedor Front-End há 5 anos! 🌱
-#### Ao todo quase 6 anos de carreira!!  🚀🚀
+#### Ao todo quase 7 anos de carreira!!  🚀🚀
 #### Muita experiência e muito gás! 
 #### Apaixonado por games, café, caminhada, lasanha e interessado sempre em aprender. 😀
 
