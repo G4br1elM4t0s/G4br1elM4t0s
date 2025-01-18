@@ -14,7 +14,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4br1elM4t0s&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias do meu dia
 
 <div style="display : inline_block"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
