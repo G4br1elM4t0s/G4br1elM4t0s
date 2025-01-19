@@ -3,7 +3,7 @@
 #### Tecnico em Desenvolvimento de Sistemas 🚀
 #### Graduado Em Analise e Desenvolvimento de Sistemas (Tecnologo) 🎓👋
 #### Desenvolvedor Full-stack há 6 anos/ Desenvolvedor Front-End há 7 anos! 🌱
-#### Ao todo quase 7 anos de carreira!!  🚀
+#### Ao todo quase 8 anos de carreira!!  🚀
 #### Muita experiência e muito gás! 
 #### Apaixonado por games, café, caminhada, lasanha e interessado sempre em aprender. 😀
 
